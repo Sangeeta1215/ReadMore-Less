@@ -1,6 +1,6 @@
 var dots=document.getElementById("dots");
 var more=document.getElementById("more");
-var btn1=document.getElementById("btn1")
+var btn1=document.getElementById("btn1");
 function readMore()
 {
 if(dots.style.display==="none") 
