@@ -1,6 +1,6 @@
 .container
 {
-border:3px solid seagreen;
+border:1px solid black;
 margin:auto;
 background-color:silver;
 width:400px;
@@ -9,7 +9,7 @@ margin-top:60px;
 #btn1
 {
 height:30px;
-width:80px;
+width:90px;
 background-color:cadetblue;
 }
 @media only screen  and(max-width:600px)
