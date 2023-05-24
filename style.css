@@ -1,0 +1,25 @@
+.container
+{
+border:3px solid seagreen;
+margin:auto;
+background-color:silver;
+width:400px;
+margin-top:60px;
+}
+#btn1
+{
+height:30px;
+width:80px;
+background-color:cadetblue;
+}
+@media only screen  and(max-width:600px)
+{
+.container
+{
+width:300px;
+}
+body 
+{
+ margin:0px;
+}
+}
